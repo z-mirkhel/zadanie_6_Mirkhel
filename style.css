@@ -1,0 +1,59 @@
+.color{
+    font-family: cursive;
+    background-color: rgba(224, 103, 149, 0.808);
+  }
+  
+  header{
+    height: 160px;
+    background: rgb(202, 14, 117, 0.726);
+    border: thick double rgb(128, 18, 64, 0.596);
+  }
+  
+  .header__text{
+    font-family: cursive;
+    width: 100%;
+    font-size: 30px;
+    font-weight: 600;
+  }
+  header img{
+    float: left;
+    height: 140px;
+    width: 200px;
+  }
+
+  .p1{
+    color: rgba(56, 14, 28, 0.733);
+  }
+  
+  .calc2{
+    background: rgba(236, 213, 222, 0.863);
+    margin: 5px;
+  }
+  
+  .calc2 input{
+    background-color: rgb(190, 109, 154);
+    color: rgba(46, 11, 34, 0.733); 
+  }
+  
+  .calc2 select{
+    background-color: rgb(148, 83, 121);
+    color: rgba(68, 14, 47, 0.733);
+  }
+  .calc2 option{
+    background-color: rgb(138, 13, 86);
+    color: rgba(73, 37, 55, 0.733);
+  }
+  
+  .footer{
+    width: 100%;
+    background-color: rgba(121, 10, 62, 0.644);
+    box-shadow: 10px 10x 10px 5px rgba(87,86,86,0.281);
+  }
+  .footrow{
+    height: 60px;
+    font-family: cursive;
+  }
+  .foottext{
+    font-size: 15px;
+    letter-spacing: 0.4px;
+  }
